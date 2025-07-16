@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimioEventCommunication", "SimioEventCommunication.csproj", "{1AF99B8D-4FD2-4D9C-B2A4-CC8184C7A995}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5F5F7F25-EE28-4AEA-8AC6-0AA0D75A3496}"
+	ProjectSection(SolutionItems) = preProject
+		GlobalEventManager.cs = GlobalEventManager.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AF99B8D-4FD2-4D9C-B2A4-CC8184C7A995}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AF99B8D-4FD2-4D9C-B2A4-CC8184C7A995}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AF99B8D-4FD2-4D9C-B2A4-CC8184C7A995}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AF99B8D-4FD2-4D9C-B2A4-CC8184C7A995}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {662616DD-73F9-4764-A7EC-06E816CD641B}
+	EndGlobalSection
+EndGlobal
